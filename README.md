@@ -10,7 +10,7 @@ Looking for first contributions? Just fork this repository add your name to this
 
 - Josue Cedeno
 - [Eddie Jaoude](https://github.com/eddiejaoude)
-- Roshan Aryal (https://github.com/Roshan310)
+- [Roshan Aryal](https://github.com/Roshan310)
 - Nikhil Agarwal
 - [Akhil Chaudhary](https://akhilchaudhary.in/)
 - [Jenna Toff](http://github.com/larkceresin)
